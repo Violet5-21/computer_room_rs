@@ -1,0 +1,3 @@
+D:/E_copy/C++/computer_room_rs/cmake-build-debug/CMakeFiles/computer_room_rs.dir
+D:/E_copy/C++/computer_room_rs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/E_copy/C++/computer_room_rs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
